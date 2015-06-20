@@ -14,8 +14,8 @@ Instead of writing down sensitive case numbers or customer identification, enter
 Create Calendar events with alarms to remind you to check an account. The notes in the event will have a Link to open the account.   This uses URL handling and account details embedded in the link
 
 #### Speed
-Use 10 Key to navigate all prompts.
-Use Keyboard Shortcuts to Launch the App
+-Use 10 Key to navigate all prompts.
+-Use Keyboard Shortcuts to Launch the App
 
 Download FastScripts by RedSweater to assign a keyboard shortcut to anything you want.  
 Set up a keyboard shortcut to Launch Case DataBase to quickly open the app and update your case details and notes.
